@@ -1,4 +1,4 @@
-﻿New Child Welfare Technology Helps Protect the Next Generation
+# New Child Welfare Technology Helps Protect the Next Generation
 Point Hope, Alaska: Jan. 2, 2022 
 
 
