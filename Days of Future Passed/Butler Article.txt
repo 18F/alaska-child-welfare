@@ -1,25 +1,25 @@
 What were the things that made DHSS do Neo-ORCA in the first place?
 
     After twelve tumultuous years of development using a waterfall methodology OCS determined that a change was necessary. At the time the Agile development process, which is now a standard, was beginning to gain a foothold in government application development. With ever tightening budgets and changing technologies the department decided to break with the status quo and embrace an Agile approach to development, procurement and management.
- 
-        What was it like to be on the project team?
+
+What was it like to be on the project team?
 
     It was great. Everyone loved it…
 
-        What were the challenges the team faced? How did the team overcome them?
+What were the challenges the team faced? How did the team overcome them?
 
     Being able to keep normal day to day operations going while standing up a brand new and foreign process, while being short staffed.
-
-         What were the goals for the project? What were the major successes and failures of the team?
+    
+What were the goals for the project? What were the major successes and failures of the team?
 
     Deliver high quality software in a modular fashion quickly and at a reasonable cost.
          
-        How long did it take? How much did it cost?
-    The process is still on going. The cost is not a major concern as it once was since the stakeholders see that their needs are being met and adaptations to new technology and changing statutory regulations have been delivered in a timely, accurate and in a  cost effective  way.
+How long did it take? How much did it cost?
+    
+    The process is still on going. The cost is not a major concern as it once was since the stakeholders see that their needs are being met and adaptations to new technology and changing statutory regulations have been delivered in a timely, accurate and in a  cost effective  way.
 
-        What were the results of the project? How did the world change? How did child welfare in Alaska change for the children? For the social workers? For the agency?
+What were the results of the project? How did the world change? How did child welfare in Alaska change for the children? For the social workers? For the agency?
 
     Caseworkers who were once frustrated with ORCA are now happy to come to work and record valuable information which has led to better service, awareness and safety for the Children of Alaska.
     
-        What personal milestones occurred during the project? Anybody get married? Win the lottery? Move to Bora Bora and work remotely?
- 
+  
