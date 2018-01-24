@@ -27,6 +27,10 @@ sort of brittle homegrown build-automation tool that we used to quickly
 produce builds. Our State tech team understood the mechanics of this
 build tool, but it was cobbled together by staff who had moved on, and
 no one could easily maintain or modify it to handle new technologies.
+Also, the build tool originally was written to automatically deploy, but
+that feature had broken. So, we had real challenges in our “continuous
+integration” and “continuous deployment” (CI/CD) stories.
+
 Our support vendor was very committed to helping us move forward, but
 the foundations of the code base were about 20 years old at that time,
 and “moving forward” was not a simple or reasonably priced proposition.
@@ -54,7 +58,7 @@ write, test and (ultimately) ship as defects. A bigger codebase means
 you are losing that much more business value every step along the way.
 And this continues into maintenance, costing more to understand the
 code, design and implement new features, etc. So, our smaller Neo-ORCA
-saves us money every day in our total cost of ownership.
+codebase saves us money every day in our total cost of ownership.
 
 The second story is about the ability to fail and recover quickly. Since
 even well designed, well implemented software features can fail to meet
@@ -83,8 +87,8 @@ encasement strategy that ultimately allowed us to let go of ORCA one
 business function at a time. Finally, we had to get our teams to
 understand how to design in this way. All these work transitions
 translated to challenges and learning curves for support team members,
-but we also had to adjustment how we worked with department leadership
-and our federal partners.
+but we also had to adjust how we worked with department leadership and
+our federal partners.
 
 Security was a significant hurdle, and there were a few other perfect
 storms along the way, like the OIT transition occurring at the same time
