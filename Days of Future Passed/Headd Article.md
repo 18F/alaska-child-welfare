@@ -1,5 +1,5 @@
-Child Welfare Innovations Showcased at Annual Technology Event
-Washington DC - January 18, 2020
+## Child Welfare Innovations Showcased at Annual Technology Event
+### Washington DC - January 18, 2020
 
 At the annual technology awards today, the State of Alaska's Department of Health and Social Services (DHSS) showcased it's Neo-ORCA system for child welfare, developed over the past several years using a procurement strategy called "modular contracting." DHSS officials were on hand to receive an innovation award at the event, and also discussed their work on the groundbreaking system with attendees.
 
